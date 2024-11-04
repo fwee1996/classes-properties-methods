@@ -1,0 +1,14 @@
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\bin\Debug\net8.0\ClassesPropertiesMethods.exe
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\bin\Debug\net8.0\ClassesPropertiesMethods.deps.json
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\bin\Debug\net8.0\ClassesPropertiesMethods.runtimeconfig.json
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\bin\Debug\net8.0\ClassesPropertiesMethods.dll
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\bin\Debug\net8.0\ClassesPropertiesMethods.pdb
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.AssemblyInfoInputs.cache
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.AssemblyInfo.cs
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.dll
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\refint\ClassesPropertiesMethods.dll
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.pdb
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ClassesPropertiesMethods.genruntimeconfig.cache
+C:\Users\user\workspace\classes-properties-methods\ClassesPropertiesMethods\obj\Debug\net8.0\ref\ClassesPropertiesMethods.dll
